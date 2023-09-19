@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h1{
+  width: 100%;
+  font-size: 4em;
+  text-shadow: 2px 2px #9aafc2;
+}
+
+img{
+  width: 100%;
+}
