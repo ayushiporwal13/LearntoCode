@@ -10,20 +10,20 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [ ] I have added the data in a json file, calling it in the component using that.
-* [ ] I have implemented card functionality using map, instead of writing it individually 10 times.
-* [ ] I have created images for each of the card by myself.
-* [ ] I have enhanced the look and feel of the website to make it more presentable and attractive.
+* [x] I have added the data in a json file, calling it in the component using that.
+* [x] I have implemented card functionality using map, instead of writing it individually 10 times.
+* [x] I have created images for each of the card by myself.
+* [x] I have enhanced the look and feel of the website to make it more presentable and attractive.
 
 ## Video Walkthrough
 
