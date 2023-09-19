@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-[Video Walkthrough](https://imgur.com/a/TL3FxZX)
+[Video Walkthrough](https://i.imgur.com/dUmbcOo.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [CloudConvert](https://cloudconvert.com/mp4-to-gif)
